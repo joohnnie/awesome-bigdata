@@ -35,6 +35,7 @@ Your contributions are always welcome!
     - [Internet of things and sensor data](#internet-of-things-and-sensor-data)
     - [Interesting Readings](#interesting-readings)
     - [Interesting Papers](#interesting-papers)
+    - [Videos](#videos)
 - [Other Awesome Lists](#other-awesome-lists)
 
 ## Frameworks
@@ -212,6 +213,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Sky](http://skydb.io/) - database used for flexible, high performance analysis of behavioral data.
 * [SymmetricDS](http://www.symmetricds.org/) - open source software for both file and database synchronization.
 * [Map-D](http://www.map-d.com/) - GPU in-memory database, big data analysis and visualization platform
+* [VoltDB](http://voltdb.com/) - claim to be fastest in-memory database
 
 ## Time-Series Databases
 
@@ -360,7 +362,9 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Eventhub](https://github.com/Codecademy/EventHub) - open source event analytics platform.
 * [HIPI Library](http://hipi.cs.virginia.edu/) - API for performing image processing tasks on Hadoop's MapReduce.
 * [Hunk](http://www.splunk.com/download/hunk) - Splunk analytics for Hadoop.
+* [Imhotep](http://indeedeng.github.io/imhotep/) - Large scale analytics platform by indeed.
 * [MADlib](http://madlib.net/community/) - data-processing library of an RDBMS to analyze data.
+* [Kylin](http://www.kylin.io/) - open source Distributed Analytics Engine from eBay.
 * [PivotalR](https://github.com/gopivotal/PivotalR) - R on Pivotal HD / HAWQ and PostgreSQL.
 * [Qubole](http://www.qubole.com/) - auto-scaling Hadoop cluster, built-in data connectors.
 * [Sense](https://senseplatform.com//) - Cloud Platform for Data Science and Big Data Analytics.
@@ -444,6 +448,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 ## Data Visualization
 
 * [Arbor](https://github.com/samizdatco/arbor) - graph visualization library using web workers and jQuery.
+* [Banana](https://github.com/LucidWorks/banana) - visualize logs and time-stamped data stored in Solr. Port of Kibana.
 * [C3](http://c3js.org/) - D3-based reusable chart library
 * [CartoDB](https://github.com/CartoDB/cartodb) - open-source or freemium hosting for geospatial databases with powerful front-end editing capabilities and a robust API. 
 * [Chart.js](http://www.chartjs.org/) - open source HTML5 Charts visualizations.
@@ -454,6 +459,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [DC.js](http://dc-js.github.io/dc.js/) - Dimensional charting built to work natively with crossfilter rendered using d3.js. Excellent for connecting charts/additional metadata to hover events in D3.
 * [D3](http://d3js.org/) - javaScript library for manipulating documents.
 * [Envisionjs](https://github.com/HumbleSoftware/envisionjs) - dynamic HTML5 visualization.
+* [FnordMetric](http://fnordmetric.io/) - write SQL queries that return SVG charts rather than tables
 * [Freeboard](https://github.com/Freeboard/freeboard) - pen source real-time dashboard builder for IOT and other web mashups.
 * [Gephi](https://github.com/gephi/gephi) - An award-winning open-source platform for visualizing and manipulating large graphs and network connections. It's like Photoshop, but for graphs. Available for Windows and Mac OS X. 
 * [Google Charts](https://developers.google.com/chart/) - simple charting API.
@@ -463,6 +469,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [IPython](http://ipython.org/) - provides a rich architecture for interactive computing.
 * [Kibana](http://www.elasticsearch.org/overview/kibana/) - visualize logs and time-stamped data
 * [Matplotlib](https://github.com/matplotlib/matplotlib) - plotting with Python.
+* [Metricsgraphic.js](http://metricsgraphicsjs.org/) - a library built on top of D3 that is optimized for time-series data
 * [NVD3](http://nvd3.org/) - chart components for d3.js.
 * [Peity](https://github.com/benpickles/peity) - Progressive SVG bar, line and pie charts.
 * [Plot.ly](http://plot.ly) - Easy-to-use web service that allows for rapid creation of complex charts, from heatmaps to histograms. Upload data to create and style charts with Plotly's online spreadsheet. Fork others' plots.
@@ -475,6 +482,10 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 
 * [TempoIQ](https://tempoiq.com/) - Cloud-based sensor analytics.
 * [2lemetry](http://2lemetry.com/) - Platform for Internet of things.
+* [Pubnub] - (http://www.pubnub.com/) - Data stream network
+* [ThingWorx] - (http://www.thingworx.com/) - Rapid development and connection of intelligent systems
+* [IFTTT] - (https://ifttt.com/) - If this then that
+* [Evrything] - (https://evrythng.com/)- Making products smart
 
 ## Interesting Readings
 
@@ -531,6 +542,15 @@ for Data Analytics at Twitter.
 * [2006](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en//archive/bigtable-osdi06.pdf) - **Google** - Bigtable: A Distributed Storage System for Structured Data.
 * [2004](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en//archive/mapreduce-osdi04.pdf) - **Google** - MapReduce: Simplied Data Processing on Large Clusters.
 * [2003](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en//archive/gfs-sosp2003.pdf) - **Google** - The Google File System.
+ 
+## Videos
+
+### Data Visualization
+ * [The beauty of data visualization](https://www.youtube.com/watch?v=5Zg-C8AAIGg)
+ * [Designing Data Visualizations with Noah Iliinsky](https://www.youtube.com/watch?v=R-oiKt7bUU8)
+ * [Hans Rosling's 200 Countries, 200 Years, 4 Minutes](https://www.youtube.com/watch?v=jbkSRLYSojo)
+ * [Ice Bucket Challenge Data Visualization](https://www.youtube.com/watch?v=qTEchen97rQ)
+ 
 
 # Other Awesome Lists
 - Other awesome lists [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness).
